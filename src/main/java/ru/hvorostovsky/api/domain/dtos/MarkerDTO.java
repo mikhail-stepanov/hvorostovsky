@@ -1,15 +1,24 @@
 package ru.hvorostovsky.api.domain.dtos;
 
+import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
+
+import java.util.List;
 
 @Data
-@NoArgsConstructor
+@Builder
 public class MarkerDTO {
+
+    private Long id;
 
     private Integer order;
 
     private Double lat;
 
     private Double lng;
+
+    private String description;
+
+    private List<SpectacleDTO> spectacles;
+
 }

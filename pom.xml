@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>ru.hvorostovsky</groupId>
-    <artifactId>api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>hvorostovsky-api</name>
+    <artifactId>hvorostovsky-api</artifactId>
+    <version>1.0.0</version>
+    <name>${artifactId}</name>
 
     <properties>
         <java.version>17</java.version>

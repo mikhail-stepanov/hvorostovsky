@@ -1,3 +1,13 @@
+create table if not exists markers
+(
+    id          bigint not null
+        constraint markers_pkey primary key,
+    "order"     int,
+    lat         double precision,
+    lng         double precision,
+    description varchar
+);
+
 create table if not exists spectacles
 (
     id          bigint not null
@@ -10,7 +20,9 @@ create table if not exists spectacles
     place       varchar,
     address     varchar,
     description varchar,
-    year        varchar(255)
+    year        varchar(255),
+    marker_id   bigint
+        constraint spectacles_markers_id_fk references markers (id)
 );
 
 create table if not exists photos
@@ -38,15 +50,4 @@ create table if not exists audios
     url          varchar,
     spectacle_id bigint
         constraint audios_spectacles_id_fk references spectacles (id)
-);
-
-create table if not exists markers
-(
-    id           bigint not null
-        constraint markers_pkey primary key,
-    "order"      int,
-    lat          double precision,
-    lng          double precision,
-    spectacle_id bigint
-        constraint markers_spectacles_id_fk references spectacles (id)
 );

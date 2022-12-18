@@ -44,8 +44,9 @@ public class Spectacle {
     @Column(name = "year")
     private String year;
 
-    @OneToMany(mappedBy = "spectacle")
-    private List<Marker> markers;
+    @ManyToOne(cascade = CascadeType.ALL)
+    @JoinColumn(name = "marker_id")
+    private Marker marker;
 
     @OneToMany(mappedBy = "spectacle")
     private List<Photo> photos;

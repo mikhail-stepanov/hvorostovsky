@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Entity
 @Table(name = "markers")
 @Data
@@ -24,8 +26,10 @@ public class Marker {
     @Column(name = "lng")
     private double lng;
 
-    @ManyToOne(cascade = CascadeType.ALL)
-    @JoinColumn(name = "spectacle_id")
-    private Spectacle spectacle;
+    @Column(name = "description")
+    private String description;
+
+    @OneToMany(mappedBy = "marker")
+    private List<Spectacle> spectacles;
 
 }
