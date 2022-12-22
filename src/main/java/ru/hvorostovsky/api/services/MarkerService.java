@@ -26,6 +26,10 @@ public class MarkerService {
         return repository.findAll().stream().map(this::assembly).collect(Collectors.toList());
     }
 
+    public MarkerDTO getMarker(Long id) {
+        return repository.findById(id).map(this::assembly).orElse(null);
+    }
+
     private MarkerDTO assembly(Marker marker) {
 
         List<SpectacleDTO> spectacles = new ArrayList<>();
