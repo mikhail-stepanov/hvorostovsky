@@ -1,10 +1,7 @@
 package ru.hvorostovsky.api.controllers;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import ru.hvorostovsky.api.domain.dtos.MarkerDTO;
 import ru.hvorostovsky.api.services.MarkerService;
 
@@ -18,12 +15,16 @@ public class MarkerController {
     private final MarkerService service;
 
     @GetMapping
-    public List<MarkerDTO> getMarkers() {
-        return service.getMarkers();
+    public List<MarkerDTO> getMarkers(
+            @RequestParam(name = "audio", required = false, defaultValue = "false") boolean audio
+    ) {
+        return service.getMarkers(audio);
     }
 
     @GetMapping("/{id}")
-    public MarkerDTO getMarker(@PathVariable long id) {
+    public MarkerDTO getMarker(
+            @PathVariable long id
+    ) {
         return service.getMarker(id);
     }
 }

@@ -19,11 +19,15 @@ public class MarkerService {
 
     private final MarkerRepository repository;
 
-    public List<MarkerDTO> getMarkers() {
+    public List<MarkerDTO> getMarkers(boolean audio) {
         if (repository.count() == 0L) {
             return new ArrayList<>();
         }
-        return repository.findAll().stream().map(this::assembly).collect(Collectors.toList());
+        if (audio) {
+            return repository.findAllByAudios().stream().map(this::assembly).collect(Collectors.toList());
+        } else {
+            return repository.findAll().stream().map(this::assembly).collect(Collectors.toList());
+        }
     }
 
     public MarkerDTO getMarker(Long id) {

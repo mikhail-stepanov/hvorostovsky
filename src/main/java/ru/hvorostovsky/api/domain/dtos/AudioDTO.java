@@ -10,4 +10,10 @@ public class AudioDTO {
     private Long id;
 
     private String url;
+
+    private String name;
+
+    private String type;
+
+    private Long duration;
 }

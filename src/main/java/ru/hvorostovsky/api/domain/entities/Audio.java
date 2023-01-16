@@ -18,6 +18,15 @@ public class Audio {
     @Column(name = "url")
     private String url;
 
+    @Column(name = "name")
+    private String name;
+
+    @Column(name = "type")
+    private String type;
+
+    @Column(name = "duration")
+    private Long duration;
+
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "spectacle_id")
     private Spectacle spectacle;
