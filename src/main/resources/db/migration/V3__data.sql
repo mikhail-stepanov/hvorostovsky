@@ -1,25 +1,7 @@
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100001, 1, 19.435184, 99.141011, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100002, 1, 22.908880080917445, 43.1765575020957, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100003, 1, 23.614197745903404, 58.46851239791575, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100004, 1, 24.462526959307663, 54.31813089659649, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100005, 1, 29.764750930195593, 95.36570270353478, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100006, 1, 31.768737, 35.215352, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100007, 1, 32.076505674510216, 34.784872398145794, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100008, 1, 33.14384979401848, 96.83497932096977, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100009, 1, 33.143948662148574, 96.83503294748863, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100010, 1, 34.05646346939817, 118.24875978053056, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100011, 1, 34.600607851300424, 58.38303568774786, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100012, 1, 34.743835227942085, 135.35592079744924, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
@@ -35,25 +17,11 @@ VALUES (100017, 1, 40.19064086525238, 44.509282286379865, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100018, 1, 40.364148, 49.831566, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100019, 1, 40.76484287693149, 73.97448371770157, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100021, 1, 40.76619686201722, 73.98000777034726, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100022, 1, 40.772727, 73.983234, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100023, 1, 40.77302445401986, 73.98466994968143, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100024, 1, 40.784593017474755, 73.95696848005177, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100025, 1, 41.114974341751164, 20.79367752870898, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100026, 1, 41.70822673572228, 44.785673310844984, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100027, 1, 41.88249153513531, 87.63735478659909, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100028, 1, 41.89899163684819, 12.456432184466276, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100029, 1, 42.343085137953345, 71.08562815812753, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100030, 1, 43.27575, 11.985083, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
@@ -63,8 +31,6 @@ VALUES (100032, 1, 43.604048, 1.444663, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100033, 1, 43.614641, 4.010097, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100034, 1, 43.657404040332, 79.38362306740429, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100035, 1, 43.69478549758121, 7.258329697742709, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100036, 1, 43.695415, 7.272535, NULL);
@@ -73,11 +39,7 @@ VALUES (100037, 1, 45.4338032124283, 12.33379008457037, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100038, 1, 45.467805, 9.189379, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100039, 1, 45.51369735818995, 73.56574769998518, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100040, 1, 45.80120750841718, 15.979918028503839, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100041, 1, 46.00357878601629, 73.41328552526575, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100042, 1, 46.201803333715, 6.142699350516542, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
@@ -137,8 +99,6 @@ VALUES (100069, 1, 54.72255398248194, 55.944997595302446, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100070, 1, 55.021393583536806, 82.92505954210847, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100071, 1, 55.07188968187995, 82.94333185187539, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100072, 1, 55.740537609290215, 37.597659930379166, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100073, 1, 55.75406914587326, 37.62087009969637, NULL);
@@ -162,8 +122,6 @@ INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100084, 1, 55.99604999123847, 92.87528276902538, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100093, 1, 56.00870087032841, 92.86844819802545, NULL);
-INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (100094, 1, 56.00933793965068, 92.86258555642195, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100095, 1, 56.01250718714844, 92.89463419988842, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
@@ -202,6 +160,49 @@ INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100114, 1, 63.426899725804915, 10.395359903500921, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (100115, 1, 64.14019445368005, 21.955087208021514, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100022, 3, 40.772727, -73.983234, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100071, 1, 59.9216217, 30.465579317, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100039, 1, 45.51369735818995, -73.56574769998518, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100019, 1, 40.76484287693149, -73.97448371770157, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100041, 1, 46.00357878601629, -73.41328552526575, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100034, 1, 43.657404040332, -79.38362306740429, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100029, 1, 42.343085137953345, -71.08562815812753, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100027, 1, 41.88249153513531, -87.63735478659909, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100009, 1, 33.143948662148574, -96.83503294748863, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100011, 1, 34.600607851300424, -58.38303568774786, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100002, 1, 22.910254732022114, -43.17610466203221, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100001, 1, 19.435184, -99.141011, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100024, 1, 40.784593017474755, -73.95696848005177, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100008, 1, 33.14384979401848, -96.83497932096977, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100006, 1, 29.764750930195593, 35.215352, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100094, 1, 56.00933793965068, 92.86844819802545, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100023, 1, 40.77302445401986, -73.98466994968143, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100021, 2, 40.76619686201722, -73.98000777034726, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100010, 1, 34.05646346939817, -118.24875978053056, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100005, 1, 29.764750930195593, -95.36570270353478, NULL);
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (100003, 1, 23.614178085020605, 58.46854458401276, NULL);
+
 
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
@@ -252,6 +253,12 @@ VALUES (100008, NULL, 'Театр Фриско', 'Дебют в партии А�
         '8004 Dallas Pkwy Suite 200, Frisco, TX 75034, Соединенные Штаты',
         'В 1991 году в театре Фриско в пригороде Далласа Дмтирий Хворотсовский дебютирует в партии Андрея Болконского в опере Сергея Прокофьева «Война и мир». Через 10 лет в 2002 году Хвороствоский исполнил партию Болконсокго в Метрополитен-опера в Нью-Йорке (постановка А. Кочаловского).',
         '1991', 100008);
+INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
+                               marker_id)
+VALUES (100066, NULL, 'Дворец Республики', 'Концерт лауреатов конкурса имени Глинки в Минске', 'Белоруссия', 'Минск',
+        NULL, 'Октябрьская площадь, 1, Минск, Белоруссия',
+        'В октябре 1988 Хворостовскому исполняется 26 лет. И в том же месяце он участвует в концерте лауреатов конкурса имени Глинки в Минске на Октябрьской площади, дом 1. А уже 30 октября пройдет первый в современной истории Беларуси массовый митинг, организованный молодежным сообществом. Речь об Обществе молодых литераторов «Тутэйшыя» во главе с ровесником певца, Алесем Беляцким.',
+        '14.10.1988', 100066);
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
 VALUES (100024, NULL, 'Генеральное консульство Российской Федерации в Нью-Йорке', 'Концерт для сотрудников консульства',
@@ -334,12 +341,6 @@ VALUES (100031, NULL, 'Концертный зал «New Wave Hall»',
         '07.09.2016', 100031);
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
-VALUES (100066, NULL, 'Дворец Республики', 'Концерт лауреатов конкурса имени Глинки в Минске', 'Белоруссия', 'Минск',
-        NULL, 'Октябрьская площадь, 1, Минск, Белоруссия',
-        'В октябре 1988 Хворостовскому исполняется 26 лет. И в том же месяце он участвует в концерте лауреатов конкурса имени Глинки в Минске на Октябрьской площади, дом 1. А уже 30 октября пройдет первый в современной истории Беларуси массовый митинг, организованный молодежным сообществом. Речь об Обществе молодых литераторов «Тутэйшыя» во главе с ровесником певца, Алесем Беляцким.',
-        '14.10.1988', 100066);
-INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
-                               marker_id)
 VALUES (100099, NULL, 'Зеленогорский городской дворец культуры', 'Заглавная партия в опере «Евгений Онегин»', 'Россия',
         'Зеленогорск', NULL, 'ул. Бортникова, 1, Зеленогорск, Россия',
         'На гастролях Красноярского государственного театра оперы и балета в Зеленогорске Хворостовский поет заглавную партию в опере «Евгений Онегин» Петра Ильича Чайковского. В то время «город атомщиков» называется Красноярск-45 и закрыт для посещения без особого приглашения.',
@@ -418,6 +419,12 @@ VALUES (100043, NULL, 'Цюрихский оперный театр', 'Соль�
         'Sechseläutenpl. 1, 8008 Zürich, Швейцария',
         '27 февраля 2014 года Дмитрий Хворостовский дает сольный концерт в Цюрихском оперном театре. В программу вошли произведения российских и западноевропейских композиторов.  До этого певец был в этой стране летом 2004 года с выступлеием в опере Чайковского "Евгений Онегин" (партия Онегина).  Следующим городом, где пройдут его выступления станет Брюссель (Бельгия).',
         '27.02.2014', 100043);
+INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
+                               marker_id)
+VALUES (100005, NULL, 'Гранд Опера', 'Премьера оперы «Риголетто»', 'США', 'Хьюстон', NULL,
+        '510 Preston St UNIT 1504, Houston, TX 77002, Соединенные Штаты',
+        'В октябре-ноябре 2001 года в техасском городе Хьюстон Хворостовский восемь раз выходит на сцену Houston Grand Opera с партией Риголетто в одноименной опере Дж. Верди. Через 5 лет, осенью 2006 года Дмитрий дебютирует в Houston Grand Oper с партией Симона Бокканегры из одноимённой оперы Дж. Верди, дирижёр - Патрик Саммерс',
+        '2001', 100005);
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
 VALUES (100082, NULL, 'Татарский академический государственный театр оперы и балета им.М.Джалиля',
@@ -543,12 +550,6 @@ VALUES (100021, NULL, 'Концертный зал "Карнеги-холл"', '
         '881 7th Ave, New York, NY 10019, Соединенные Штаты',
         'На сцене престижного Карнеги-холла проходили по большей части сольные концерты певца. Программа самая разнообразная: опера «Пиковая дама» и "Иоланта" Чайковского, опера «Разбойники» и "Бал-маскарад" Джузеппе Верди, опера «Фаворитка» Гаэтано Доницетти.  В Карнеги-холл исполнялись произведения композиторов: Габриэля Форе, Сергея Танеева, Ференца Листа, Петра Ильича Чайковского, Модеста Мусоргского, Георгия Свиридова, Мориса Равеля, Густава Малера, Анри Дюпарка, Михаила Глинки, Николая Римского-Корсакого, Рихарда Штрауса.   Карнеги стал значимой площадкой для творческой дружбы Хворостовского с Ивари Ильей: умный и деликатный аккомпанемент, яркий и выразительный вокал. Они познакомились еще в Кардиффе - играли в дуэте на том самом легендарном конкурсе, после которого Хворостовский проснулся знаменитым.  На сцену Карнеги-холла, как и на мировую сцену вообще, Хворостовских вывел многих российских артистов, известных сегодня: Анна Нетребко, Ильдар Абразаков, Екатерина Сюрина и другие. Он всегда помогал талантливым молодым артистам, как и его великий учитель Ирина Архипова.',
         '1991-2016', 100021);
-INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
-                               marker_id)
-VALUES (100005, NULL, 'Гранд Опера', 'Премьера оперы «Риголетто»', 'США', 'Хьюстон', NULL,
-        '510 Preston St UNIT 1504, Houston, TX 77002, Соединенные Штаты',
-        'В октябре-ноябре 2001 года в техасском городе Хьюстон Хворостовский восемь раз выходит на сцену Houston Grand Opera с партией Риголетто в одноименной опере Дж. Верди. Через 5 лет, осенью 2006 года Дмитрий дебютирует в Houston Grand Oper с партией Симона Бокканегры из одноимённой оперы Дж. Верди, дирижёр - Патрик Саммерс',
-        '2001', 100005);
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
 VALUES (100037, NULL, 'Театр ла Фениче', 'Партия Онегина в опере Чайковского', 'Италия', 'Венеция', NULL,
@@ -911,3 +912,444 @@ VALUES (100091, NULL, 'Красноярский государственный �
         'Красноярск', NULL, 'ул. Перенсона, 2, Красноярск, Красноярский край, 660049',
         'В январе 1990 года Горбачев возвращает Мстиславу Ростроповичу гражданство СССР (тот его не принимает). А Хворостовский дебютирует в партии Фигаро в опере «Севильский цирюльник» Россини. В 19 веке эту партию пел бас, по новой классификации — баритон. Фигаро пел голосом Юрия Гуляева, Александра Инашвили и Муслима Магомаева. Каватину Фигаро Дмитрий будет исполнять и в сентябре того же года, но уже в Москве, на своем сольном концерте на сцене Большого театра.',
         '1990,январь', 100093);
+
+
+INSERT INTO public.audios (id, url, spectacle_id, name, type, duration)
+VALUES (1, 'https://storage.yandexcloud.net/hv-bucket/audios/sample_1.mp3', 100019, 'sample_1', '.mp3', 132);
+INSERT INTO public.audios (id, url, spectacle_id, name, type, duration)
+VALUES (2, 'https://storage.yandexcloud.net/hv-bucket/audios/sample_2.mp3', 100021, 'sample_2', '.mp3', 317);
+INSERT INTO public.audios (id, url, spectacle_id, name, type, duration)
+VALUES (3, 'https://storage.yandexcloud.net/hv-bucket/audios/sample_2.mp3', 100022, 'sample_3', '.mp3', 1480);
+
+
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100001, 'https://storage.yandexcloud.net/hv-bucket/photos/22.908880080917445_-43.1765575020957.jpeg ', 100001);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100002, 'https://storage.yandexcloud.net/hv-bucket/photos/23.614197745903404_58.46851239791575.jpg ', 100002);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100003, 'https://storage.yandexcloud.net/hv-bucket/photos/24.462526959307663_54.31813089659649.jpeg ', 100003);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100004, 'https://storage.yandexcloud.net/hv-bucket/photos/29.7647509301955_-95.365702703534.jpeg ', 100004);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100005, 'https://storage.yandexcloud.net/hv-bucket/photos/29.7647509301955_35.215352.jpeg ', 100005);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100006, 'https://storage.yandexcloud.net/hv-bucket/photos/32.076505674510216_34.784872398145794.jpg ', 100006);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100007, 'https://storage.yandexcloud.net/hv-bucket/photos/33.14384979401848_-96.83497932096977_1.jpg ', 100007);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100008, 'https://storage.yandexcloud.net/hv-bucket/photos/33.14384979401848_-96.83497932096977_2.jpeg ',
+        100008);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100009, 'https://storage.yandexcloud.net/hv-bucket/photos/34.05646346939817_-118.24875978053056.jpeg ', 100009);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100010, 'https://storage.yandexcloud.net/hv-bucket/photos/34.600607851300424_-58.38303568774786.jpg ', 100010);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100011, 'https://storage.yandexcloud.net/hv-bucket/photos/34.743835227942085_135.35592079744924.jpg ', 100011);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100012, 'https://storage.yandexcloud.net/hv-bucket/photos/35.17104538326331_136.91125354024928.jpeg ', 100012);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100013, 'https://storage.yandexcloud.net/hv-bucket/photos/35.446207055258725_139.64711456335115.jpeg ', 100013);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100014, 'https://storage.yandexcloud.net/hv-bucket/photos/35.7202163854969_139.77686367809326.jpg ', 100014);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100015, 'https://storage.yandexcloud.net/hv-bucket/photos/37.5727464699426_126.97565362637147.jpeg ', 100015);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100016, 'https://storage.yandexcloud.net/hv-bucket/photos/40.19064086525238_44.509282286379865.jpg ', 100016);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100017, 'https://storage.yandexcloud.net/hv-bucket/photos/40.364148_49.831566.jpg ', 100017);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100018, 'https://storage.yandexcloud.net/hv-bucket/photos/40.76484287693149_-73.97448371770157_2.jpeg ',
+        100018);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100019, 'https://storage.yandexcloud.net/hv-bucket/photos/40.76484287693149_-73.97448371770157.jpg ', 100019);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100020, 'https://storage.yandexcloud.net/hv-bucket/photos/40.76619686201722_-73.98000777034726.jpeg ', 100020);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100021, 'https://storage.yandexcloud.net/hv-bucket/photos/40.772727_-73.983234.jpg ', 100021);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100022, 'https://storage.yandexcloud.net/hv-bucket/photos/40.77302445401986_-73.98466994968143.jpg ', 100022);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100023, 'https://storage.yandexcloud.net/hv-bucket/photos/40.784593017474755_-73.95696848005177.jpg ', 100023);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100024, 'https://storage.yandexcloud.net/hv-bucket/photos/41.114974341751164_20.79367752870898.jpg ', 100024);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100025, 'https://storage.yandexcloud.net/hv-bucket/photos/41.70822673572228_44.785673310844984.jpg ', 100025);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100026, 'https://storage.yandexcloud.net/hv-bucket/photos/41.88249153513531_-87.63735478659909.jpeg ', 100026);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100027, 'https://storage.yandexcloud.net/hv-bucket/photos/41.89899163684819_12.456432184466276.jpeg ', 100027);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100028, 'https://storage.yandexcloud.net/hv-bucket/photos/42.343085137953345_-71.08562815812753.jpeg ', 100028);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100029, 'https://storage.yandexcloud.net/hv-bucket/photos/43.275750_11.985083.jpg ', 100029);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100030, 'https://storage.yandexcloud.net/hv-bucket/photos/43.401846880586405_39.95714984143551.jpeg ', 100030);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100031, 'https://storage.yandexcloud.net/hv-bucket/photos/43.604048_1.444663.jpeg ', 100031);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100032, 'https://storage.yandexcloud.net/hv-bucket/photos/43.614641_4.010097.jpeg ', 100032);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100033, 'https://storage.yandexcloud.net/hv-bucket/photos/43.657404040332_-79.38362306740429.jpeg ', 100033);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100034, 'https://storage.yandexcloud.net/hv-bucket/photos/43.69478549758121_7.258329697742709.jpeg ', 100034);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100035, 'https://storage.yandexcloud.net/hv-bucket/photos/43.695415_7.272535.jpeg ', 100035);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100036, 'https://storage.yandexcloud.net/hv-bucket/photos/45.4338032124283_12.33379008457037.jpeg ', 100036);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100037, 'https://storage.yandexcloud.net/hv-bucket/photos/45.467805_9.189379.jpeg ', 100037);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100038, 'https://storage.yandexcloud.net/hv-bucket/photos/45.51369735818995_-73.56574769998518.jpeg ', 100038);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100039, 'https://storage.yandexcloud.net/hv-bucket/photos/45.80120750841718_15.979918028503839.jpg ', 100039);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100040, 'https://storage.yandexcloud.net/hv-bucket/photos/46.00357878601629_73.41328552526575.jpeg ', 100040);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100041, 'https://storage.yandexcloud.net/hv-bucket/photos/46.201803333715_6.142699350516542.jpeg ', 100041);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100042, 'https://storage.yandexcloud.net/hv-bucket/photos/47.365168415637925_8.546291469043075.jpeg ', 100042);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100043, 'https://storage.yandexcloud.net/hv-bucket/photos/47.798942_13.041481.jpeg ', 100043);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100044, 'https://storage.yandexcloud.net/hv-bucket/photos/47.802852_13.042685.jpeg ', 100044);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100045, 'https://storage.yandexcloud.net/hv-bucket/photos/48.006040_37.802729.jpeg ', 100045);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100046, 'https://storage.yandexcloud.net/hv-bucket/photos/48.13968192975285_11.605768654964072.jpeg ', 100046);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100047, 'https://storage.yandexcloud.net/hv-bucket/photos/48.14156690200553_17.107154269660498.jpeg ', 100047);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100048, 'https://storage.yandexcloud.net/hv-bucket/photos/48.203274_16.369200.jpeg ', 100048);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100049, 'https://storage.yandexcloud.net/hv-bucket/photos/48.205234863786075_16.37506105288166.jpeg ', 100049);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100050, 'https://storage.yandexcloud.net/hv-bucket/photos/48.42890131898301_15.746343583991449.jpeg ', 100050);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100051, 'https://storage.yandexcloud.net/hv-bucket/photos/48.58628173772148_7.7599746899782716.jpeg ', 100051);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100052, 'https://storage.yandexcloud.net/hv-bucket/photos/48.76742885842599_8.232292563447135.jpeg ', 100052);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100053, 'https://storage.yandexcloud.net/hv-bucket/photos/48.85791906734118_2.346235296087598.jpeg ', 100053);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100054, 'https://storage.yandexcloud.net/hv-bucket/photos/50.08492609480544_8.247568283892361.jpeg ', 100054);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100055, 'https://storage.yandexcloud.net/hv-bucket/photos/51.23224107644473_6.772573853261218.jpeg ', 100055);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100056, 'https://storage.yandexcloud.net/hv-bucket/photos/51.479103_3.176433.jpeg ', 100056);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100057, 'https://storage.yandexcloud.net/hv-bucket/photos/51.49678612509329_0.1721370860535723.jpeg ', 100057);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100058, 'https://storage.yandexcloud.net/hv-bucket/photos/51.50094765527127_0.17736338994776074.jpeg ', 100058);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100059, 'https://storage.yandexcloud.net/hv-bucket/photos/51.51002255972958_0.12659202894490407.jpeg', 100059);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100060, 'https://storage.yandexcloud.net/hv-bucket/photos/51.51008205962883_0.1925136302347526.jpeg', 100060);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100061, 'https://storage.yandexcloud.net/hv-bucket/photos/51.513081326481824_0.12200448234466259.jpeg', 100061);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100062, 'https://storage.yandexcloud.net/hv-bucket/photos/51.51674150790569_0.14810401488926622.jpeg', 100062);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100063, 'https://storage.yandexcloud.net/hv-bucket/photos/51.52039194496055_0.09381510748552403.jpeg', 100063);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100064, 'https://storage.yandexcloud.net/hv-bucket/photos/53.39940321062037_2.9916228055721543.jpeg', 100064);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100065, 'https://storage.yandexcloud.net/hv-bucket/photos/53.9035215809744_27.560329115074452.jpeg', 100065);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100066, 'https://storage.yandexcloud.net/hv-bucket/photos/53.91478336658425_27.584462398622215.jpeg', 100066);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100067, 'https://storage.yandexcloud.net/hv-bucket/photos/54.323423509513844_10.133525005198404.jpeg', 100067);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100068, 'https://storage.yandexcloud.net/hv-bucket/photos/54.72255398248194_55.944997595302446.jpeg', 100068);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100069, 'https://storage.yandexcloud.net/hv-bucket/photos/55.021393583536806_82.92505954210847.jpeg', 100069);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100070, 'https://storage.yandexcloud.net/hv-bucket/photos/55.740537609290215_37.597659930379166.jpeg', 100070);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100071, 'https://storage.yandexcloud.net/hv-bucket/photos/55.75406914587326_37.62087009969637.jpg', 100071);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100072, 'https://storage.yandexcloud.net/hv-bucket/photos/55.756452_37.605056.jpeg', 100072);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100073, 'https://storage.yandexcloud.net/hv-bucket/photos/55.757009_37.600846.jpeg', 100073);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100074, 'https://storage.yandexcloud.net/hv-bucket/photos/55.758902_37.616459.jpeg', 100074);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100075, 'https://storage.yandexcloud.net/hv-bucket/photos/55.764521_37.610395.jpg', 100075);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100076, 'https://storage.yandexcloud.net/hv-bucket/photos/55.7690901634164_37.59618755367183.jpeg', 100076);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100077, 'https://storage.yandexcloud.net/hv-bucket/photos/55.771585_37.609092_1.jpeg', 100077);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100078, 'https://storage.yandexcloud.net/hv-bucket/photos/55.771585_37.609092_2.jpg', 100078);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100079, 'https://storage.yandexcloud.net/hv-bucket/photos/55.771585_37.609092_3.jpeg', 100079);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100080, 'https://storage.yandexcloud.net/hv-bucket/photos/55.795296996896234_49.12480349482717.jpeg', 100080);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100081, 'https://storage.yandexcloud.net/hv-bucket/photos/55.947231834258325_3.2053655441013977.jpg', 100081);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100082, 'https://storage.yandexcloud.net/hv-bucket/photos/55.99604999123847_92.87528276902538.jpeg', 100082);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100083, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_1.jpeg', 100083);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100084, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_2.jpeg', 100084);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100085, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_2.png', 100085);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100086, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_3.jpeg', 100086);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100087, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_4.jpeg', 100087);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100088, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_5.jpeg', 100088);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100089, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_6.jpeg', 100089);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100090, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_7.jpeg', 100090);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100091, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_8.jpeg', 100091);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100092, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00870087032841_92.86844819802545_9.jpeg', 100092);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100093, 'https://storage.yandexcloud.net/hv-bucket/photos/56.00933793965068_92.86844819802545.jpeg', 100093);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100094, 'https://storage.yandexcloud.net/hv-bucket/photos/56.01250718714844_92.89463419988842_1.jpeg', 100094);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100095, 'https://storage.yandexcloud.net/hv-bucket/photos/56.01250718714844_92.89463419988842_2.jpeg', 100095);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100096, 'https://storage.yandexcloud.net/hv-bucket/photos/56.01250718714844_92.89463419988842_3.jpeg', 100096);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100097, 'https://storage.yandexcloud.net/hv-bucket/photos/56.0157339012088_92.88965926957935.jpeg', 100097);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100098, 'https://storage.yandexcloud.net/hv-bucket/photos/56.112565_94.589496.jpeg', 100098);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100099, 'https://storage.yandexcloud.net/hv-bucket/photos/56.838878_60.616698.jpeg', 100099);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100100, 'https://storage.yandexcloud.net/hv-bucket/photos/56.84288547292422_60.61068381139886.jpeg', 100100);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100101, 'https://storage.yandexcloud.net/hv-bucket/photos/57.15626153795925_65.53357426908627.jpeg', 100101);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100102, 'https://storage.yandexcloud.net/hv-bucket/photos/57.627132_39.884776.jpeg', 100102);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100103, 'https://storage.yandexcloud.net/hv-bucket/photos/58.015748_56.244026.jpeg', 100103);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100104, 'https://storage.yandexcloud.net/hv-bucket/photos/59.856713_30.064636.jpeg', 100104);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100105, 'https://storage.yandexcloud.net/hv-bucket/photos/59.9216217_30.465579317.jpeg', 100105);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100106, 'https://storage.yandexcloud.net/hv-bucket/photos/59.925426_30.295966.jpg', 100106);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100107, 'https://storage.yandexcloud.net/hv-bucket/photos/59.93479738179615_30.34285236923528.jpeg', 100107);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100108, 'https://storage.yandexcloud.net/hv-bucket/photos/59.93570557671309_30.36563318457712.jpeg', 100108);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100109, 'https://storage.yandexcloud.net/hv-bucket/photos/59.93651040331334_30.34526082086146.jpeg', 100109);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100110, 'https://storage.yandexcloud.net/hv-bucket/photos/59.93903871943091_30.315008955741753.jpeg', 100110);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100111, 'https://storage.yandexcloud.net/hv-bucket/photos/59.9502220935769_30.3161691000059.jpeg', 100111);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100112, 'https://storage.yandexcloud.net/hv-bucket/photos/61.690607905831655_27.26902272916652.jpg', 100112);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100113, 'https://storage.yandexcloud.net/hv-bucket/photos/61.86401953226136_28.901079927325796.jpeg', 100113);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100114, 'https://storage.yandexcloud.net/hv-bucket/photos/63.426899725804915_10.395359903500921.jpeg', 100114);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100115, 'https://storage.yandexcloud.net/hv-bucket/photos/64.14019445368005_21.955087208021514.jpeg', 100115);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100116, 'https://storage.yandexcloud.net/hv-bucket/photos/2_22.908880080917445_43.1765575020957.jpeg', 100002);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100117, 'https://storage.yandexcloud.net/hv-bucket/photos/2_24.462526959307663_54.31813089659649.jpeg', 100004);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100118, 'https://storage.yandexcloud.net/hv-bucket/photos/2_29.7647509301955_35.215352.jpeg', 100006);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100119, 'https://storage.yandexcloud.net/hv-bucket/photos/2_29.7647509301955_95.365702703534.jpeg', 100005);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100120, 'https://storage.yandexcloud.net/hv-bucket/photos/2_32.076505674510216_34.784872398145794.jpg', 100007);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100121, 'https://storage.yandexcloud.net/hv-bucket/photos/2_34.05646346939817_118.24875978053056.jpeg', 100010);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100122, 'https://storage.yandexcloud.net/hv-bucket/photos/2_34.600607851300424_58.38303568774786.jpeg', 100011);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100123, 'https://storage.yandexcloud.net/hv-bucket/photos/2_34.743835227942085_135.35592079744924.jpg', 100012);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100124, 'https://storage.yandexcloud.net/hv-bucket/photos/2_35.17104538326331_136.91125354024928.jpeg', 100013);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100125, 'https://storage.yandexcloud.net/hv-bucket/photos/2_35.446207055258725_139.64711456335115.jpg', 100014);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100126, 'https://storage.yandexcloud.net/hv-bucket/photos/2_35.7202163854969_139.77686367809326.jpeg', 100015);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100127, 'https://storage.yandexcloud.net/hv-bucket/photos/2_37.5727464699426_126.97565362637147.jpeg', 100016);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100128, 'https://storage.yandexcloud.net/hv-bucket/photos/2_40.364148_49.831566.jpeg', 100018);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100129, 'https://storage.yandexcloud.net/hv-bucket/photos/2_40.76619686201722_73.98000777034726.jpeg', 100021);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100130, 'https://storage.yandexcloud.net/hv-bucket/photos/2_40.772727_73.983234.jpeg', 100022);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100131, 'https://storage.yandexcloud.net/hv-bucket/photos/2_40.77302445401986_73.98466994968143.jpeg', 100023);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100132, 'https://storage.yandexcloud.net/hv-bucket/photos/2_40.784593017474755_73.95696848005177.jpeg', 100024);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100133, 'https://storage.yandexcloud.net/hv-bucket/photos/2_41.114974341751164_20.79367752870898.jpeg', 100025);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100134, 'https://storage.yandexcloud.net/hv-bucket/photos/2_41.70822673572228_44.785673310844984.png', 100026);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100135, 'https://storage.yandexcloud.net/hv-bucket/photos/2_41.88249153513531_87.63735478659909.jpeg', 100027);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100136, 'https://storage.yandexcloud.net/hv-bucket/photos/2_41.89899163684819_12.456432184466276.jpeg', 100028);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100137, 'https://storage.yandexcloud.net/hv-bucket/photos/2_42.343085137953345_71.08562815812753.jpeg', 100029);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100138, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.275750_11.985083.jpeg', 100030);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100139, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.401846880586405_39.95714984143551.jpeg', 100031);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100140, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.604048_1.444663.jpeg', 100032);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100141, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.614641_4.010097.jpeg', 100033);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100142, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.657404040332_79.38362306740429.jpeg', 100034);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100143, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.69478549758121_7.258329697742709.jpeg', 100035);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100144, 'https://storage.yandexcloud.net/hv-bucket/photos/2_43.695415_7.272535.jpeg', 100036);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100145, 'https://storage.yandexcloud.net/hv-bucket/photos/2_45.4338032124283_12.33379008457037.jpeg', 100037);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100146, 'https://storage.yandexcloud.net/hv-bucket/photos/2_45.467805_9.189379.jpeg', 100038);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100147, 'https://storage.yandexcloud.net/hv-bucket/photos/2_45.51369735818995_73.56574769998518.jpeg', 100039);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100148, 'https://storage.yandexcloud.net/hv-bucket/photos/2_45.80120750841718_15.979918028503839.jpeg', 100040);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100149, 'https://storage.yandexcloud.net/hv-bucket/photos/2_46.00357878601629_73.41328552526575.jpeg', 100041);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100150, 'https://storage.yandexcloud.net/hv-bucket/photos/2_46.201803333715_6.142699350516542.jpeg', 100042);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100151, 'https://storage.yandexcloud.net/hv-bucket/photos/2_47.365168415637925_8.546291469043075.jpeg', 100043);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100152, 'https://storage.yandexcloud.net/hv-bucket/photos/2_47.798942_13.041481.jpeg', 100044);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100153, 'https://storage.yandexcloud.net/hv-bucket/photos/2_47.802852_13.042685.jpeg', 100045);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100154, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.00604037.802729.jpeg', 100046);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100155, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.13968192975285_11.605768654964072.jpeg', 100047);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100156, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.14156690200553_17.107154269660498.jpeg', 100048);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100157, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.203274_16.369200.jpeg', 100049);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100158, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.205234863786075_16.37506105288166.jpeg', 100050);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100159, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.42890131898301_15.746343583991449.jpeg', 100051);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100160, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.58628173772148_7.7599746899782716.jpeg', 100052);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100161, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.76742885842599_8.232292563447135.jpeg', 100053);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100162, 'https://storage.yandexcloud.net/hv-bucket/photos/2_48.85791906734118_2.346235296087598.jpeg', 100054);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100163, 'https://storage.yandexcloud.net/hv-bucket/photos/2_50.08492609480544_8.247568283892361.jpeg', 100055);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100164, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.23224107644473_6.772573853261218.jpeg', 100056);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100165, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.479103_3.176433.jpg', 100057);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100166, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.49678612509329_0.1721370860535723.jpeg', 100058);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100167, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.50094765527127_0.17736338994776074.jpeg',
+        100059);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100168, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.51002255972958_0.12659202894490407.jpeg',
+        100060);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100169, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.51008205962883_0.1925136302347526.jpeg', 100061);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100170, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.513081326481824_0.12200448234466259.jpeg',
+        100062);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100171, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.51674150790569_0.14810401488926622.jpeg',
+        100063);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100172, 'https://storage.yandexcloud.net/hv-bucket/photos/2_51.52039194496055_0.09381510748552403.jpeg',
+        100064);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100173, 'https://storage.yandexcloud.net/hv-bucket/photos/2_53.39940321062037_2.9916228055721543.jpeg', 100065);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100174, 'https://storage.yandexcloud.net/hv-bucket/photos/2_53.9035215809744_27.560329115074452.jpeg', 100066);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100175, 'https://storage.yandexcloud.net/hv-bucket/photos/2_53.91478336658425_27.584462398622215.jpeg', 100067);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100176, 'https://storage.yandexcloud.net/hv-bucket/photos/2_54.323423509513844_10.133525005198404.jpeg',
+        100068);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100177, 'https://storage.yandexcloud.net/hv-bucket/photos/2_54.72255398248194_55.944997595302446.jpeg', 100069);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100178, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.021393583536806_82.92505954210847.jpeg', 100070);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100179, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.740537609290215_37.597659930379166.jpeg',
+        100072);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100180, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.75406914587326_37.62087009969637.jpeg', 100073);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100181, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.756452_37.605056.jpeg', 100074);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100182, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.757009_37.600846.jpeg', 100075);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100183, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.758902_37.616459.jpeg', 100076);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100184, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.764521_37.610395.jpeg', 100077);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100185, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.7690901634164_37.59618755367183.jpg', 100078);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100186, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.795296996896234_49.12480349482717.jpeg', 100079);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100187, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.947231834258325_3.2053655441013977.jpeg',
+        100080);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100188, 'https://storage.yandexcloud.net/hv-bucket/photos/2_55.99604999123847_92.87528276902538.jpeg', 100081);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100189, 'https://storage.yandexcloud.net/hv-bucket/photos/2_56.0157339012088_92.88965926957935.jpeg', 100095);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100190, 'https://storage.yandexcloud.net/hv-bucket/photos/2_56.112565_94.589496.jpeg', 100083);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100191, 'https://storage.yandexcloud.net/hv-bucket/photos/2_56.838878_60.616698.jpeg', 100084);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100192, 'https://storage.yandexcloud.net/hv-bucket/photos/2_56.84288547292422_60.61068381139886.jpeg', 100101);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100193, 'https://storage.yandexcloud.net/hv-bucket/photos/2_57.15626153795925_65.53357426908627.jpeg', 100102);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100194, 'https://storage.yandexcloud.net/hv-bucket/photos/2_57.627132_39.884776.jpeg', 100102);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100195, 'https://storage.yandexcloud.net/hv-bucket/photos/2_58.015748_56.244026.jpeg', 100103);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100196, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.856713_30.064636.jpg', 100104);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100197, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.9216217_30.465579317.jpeg', 100105);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100198, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.925426_30.295966.jpeg', 100106);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100199, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.93479738179615_30.34285236923528.jpeg', 100107);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100200, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.93570557671309_30.36563318457712.jpeg', 100108);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100201, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.93651040331334_30.34526082086146.jpeg', 100109);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100202, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.93903871943091_30.315008955741753.jpeg', 100110);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100203, 'https://storage.yandexcloud.net/hv-bucket/photos/2_59.9502220935769_30.3161691000059.jpeg', 100111);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100204, 'https://storage.yandexcloud.net/hv-bucket/photos/2_61.690607905831655_27.26902272916652.jpeg', 100112);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100205, 'https://storage.yandexcloud.net/hv-bucket/photos/2_61.86401953226136_28.901079927325796.jpeg', 100113);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100206, 'https://storage.yandexcloud.net/hv-bucket/photos/2_63.426899725804915_10.395359903500921.jpeg',
+        100114);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100207, 'https://storage.yandexcloud.net/hv-bucket/photos/2_64.14019445368005_21.955087208021514.jpeg', 100115);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100208, 'https://storage.yandexcloud.net/hv-bucket/photos/3_23.614197745903404_58.46851239791575.jpeg', 100003);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100209, 'https://storage.yandexcloud.net/hv-bucket/photos/3_56.01250718714844_92.89463419988842.jpeg', 100095);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (100210, 'https://storage.yandexcloud.net/hv-bucket/photos/4_56.01250718714844_92.89463419988842.jpeg', 100095);
