@@ -26,7 +26,7 @@ public class MarkerService {
         if (audio) {
             return repository.findAllByAudios().stream().map(this::assembly).collect(Collectors.toList());
         } else {
-            return repository.findAll().stream().map(this::assembly).collect(Collectors.toList());
+            return repository.findAllByNotAudios().stream().map(this::assembly).collect(Collectors.toList());
         }
     }
 

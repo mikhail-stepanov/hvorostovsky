@@ -14,4 +14,9 @@ public interface MarkerRepository extends JpaRepository<Marker, Long> {
             value = "select * from markers where id in (select marker_id from spectacles where id in (select spectacle_id from audios))",
             nativeQuery = true)
     List<Marker> findAllByAudios();
+
+    @Query(
+            value = "select * from markers where id not in (select marker_id from spectacles where id in (select spectacle_id from audios))",
+            nativeQuery = true)
+    List<Marker> findAllByNotAudios();
 }

@@ -8,8 +8,6 @@ services:
     environment:
       - POSTGRES_USER=compose-postgres
       - POSTGRES_PASSWORD=compose-postgres
-    volumes:
-      - ./data:/var/lib/postgresql/data
 
   app:
     image: 'cr.yandex/crpa08k7e03oncbsj8tb/hvorostovsky-api:latest'
