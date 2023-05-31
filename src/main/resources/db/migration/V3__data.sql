@@ -91,7 +91,7 @@ VALUES (7, 1, 42.343085137953345, -71.08562815812753, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (8, 1, 48.14156690200553, 17.107154269660498, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
-VALUES (9, 1, 43.614641, 4.010097, NULL);
+VALUES (9, 1, 50.8497889, 4.35412305554214, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (10, 1, 48.205234863786075, 16.37506105288166, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
@@ -274,7 +274,8 @@ INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (24, 1, 29.764750930195593, -95.36570270353478, NULL);
 INSERT INTO public.markers (id, "order", lat, lng, description)
 VALUES (34, 1, 51.513081326481824, -0.12200448234466259, NULL);
-
+INSERT INTO public.markers (id, "order", lat, lng, description)
+VALUES (116, 1, 45.51740577584437, 9.216829109076896, NULL);
 
 INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
                                marker_id)
@@ -1158,6 +1159,14 @@ VALUES (22, NULL, 'Театр Ронахер', 'Награда «Золотой 
         'Seilerstätte 9, 1010 Wien, Австрия',
         '27 июня 2016 года в театре Ронахер в Вене на церемонии вручения Австрийской музыкальной театральной премиии Дмитрий Хворостовский получает награду «Золотой Папагено». «Ты – потрясающий певец, певец международного масштаба, удивительный человек», – сказал, обращаясь к российскому певцу, один из основателей премии, австрийский баритон Даниэль Серафин.',
         '27.06.2016', 10);
+INSERT INTO public.spectacles (id, static_id, name, subject, country, city, place, address, description, year,
+                               marker_id)
+VALUES (116, NULL, 'Оперный и балетный театр «Арчимбольди» в Милане', 'Последнее участие в «Пиковой даме»', 'Италия',
+        'Милан', NULL, 'Viale dell''Innovazione, 20', 'Дебют Хворостовского в партии князя Елецкого в опере П.И. Чайковского «Пиковая дама» состоялся ещё в далеком 1985 году на сцене Красноярского театра оперы 
+ и балета. Потом он будет исполнять эту партию на сцене «Метрополитен Опера», Королевского театра «Ковент-Гарден», театра «Ла Скала», концертного зала «Карнеги-холл» и в других залах мира. В марте 2005 года на сцене оперного 
+ и балетного театра «Арчимбольди» партия будет исполнена Хворостовским 
+ в последний раз.', '2005', 116);
+
 
 
 INSERT INTO public.audios (id, url, spectacle_id, name, type, duration)
@@ -1501,3 +1510,5 @@ INSERT INTO public.photos (id, url, spectacle_id)
 VALUES (114, 'https://storage.yandexcloud.net/hv-bucket/photos/114.jpeg', 114);
 INSERT INTO public.photos (id, url, spectacle_id)
 VALUES (115, 'https://storage.yandexcloud.net/hv-bucket/photos/115.jpeg', 115);
+INSERT INTO public.photos (id, url, spectacle_id)
+VALUES (116, 'https://storage.yandexcloud.net/hv-bucket/photos/116.jpeg', 116);
